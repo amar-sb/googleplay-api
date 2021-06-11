@@ -26,7 +26,7 @@ class ProtobufBuilder(_build):
         super().run()
 
 setup(name='zoro-gpapi',
-      version='0.4.4.5',
+      version='0.4.5',
       description='Unofficial python api for google play',
       url='https://github.com/NoMore201/googleplay-api',
       author='NoMore201',
